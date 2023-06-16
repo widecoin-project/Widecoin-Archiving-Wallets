@@ -1,3 +1,5 @@
-# wallet v.2.0
+# Notification
 
-Linux supports Ubuntu 18.0
+Widecoin v2.0 is compatible with <= Ubuntu 18.0
+
+Widecoin >v 2.0 is compatible with <= Ubuntu 20
