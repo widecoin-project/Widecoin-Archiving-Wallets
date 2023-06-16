@@ -1,6 +1,6 @@
 # Notification
 
-Ubuntu
+**Ubuntu**
 
 Widecoin <= v2.0 is compatible with <= Ubuntu 18.0
 
